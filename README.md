@@ -17,5 +17,7 @@ The server files are located in the server folder.
 CODE2014_server_code.zip contains a php/mysql site.
 The code.sql file is a export of our database structure and our data.
 
+Android folder contains a apk file of our application
 
+Unity folder contains a unity project of our application
 
